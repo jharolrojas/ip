@@ -1,0 +1,7 @@
+.container {
+  max-width: 600px;
+}
+#result {
+  background-color: #18232c;
+  border-radius: 10px;
+}
